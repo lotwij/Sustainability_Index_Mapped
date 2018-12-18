@@ -10,7 +10,7 @@ sidebar <- dashboardSidebar(
 
 
 dashboardPage( 
-  dashboardHeader(title = "Sustainability Index"),
+  dashboardHeader(title = "Sustainability Index Mapped"),
   
   sidebar,
   dashboardBody(
